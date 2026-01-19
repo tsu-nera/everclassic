@@ -78,9 +78,9 @@ BPMと心拍数にはなにか関係があるに違いない.
 
 [Avicii ft. Ingrosso & Alesso - Levels Calling Generation X (Andi Valo MashUp) - YouTube](https://www.youtube.com/watch?v=UdvLpnnHXnU)
 
-無知とは恐ろしいもので、そのときは、Avicii Ingrosso というアーティストの Levels Callingという曲だと思っていた. そして、２つが別の曲であることを知ったのはびっくりして、Levelsを調べたらAviciiが死んでいたことに驚いた. しかしIngressoこそ、Swedish House Mafiaのひとりだった！そして、最後にかかった曲も Callingだった！
+無知とは恐ろしいもので、そのときは、Avicii Ingrosso というアーティストの Levels Callingという曲だと思っていた. そして、２つが別の曲であることを知ったのはびっくりした. Aviciiは死んだ、しかしIngressoは生きている、Swedish House Mafiaのひとりとして来日した！
 
-途中、Avicii EditのA Sky Full of Starsがかかって泣いた.&nbsp;[^fn:6] そして、最後にCallingがかかって再び泣いた.&nbsp;[^fn:7]
+そして本日、最後にかかった曲も Callingだった！途中、Avicii EditのA Sky Full of Starsがかかって泣いた.&nbsp;[^fn:6] そして、最後にCallingがかかって再び泣いた.&nbsp;[^fn:7]
 
 [^fn:1]: [iFLYER: イタリア出身の大人気トリオMEDUZA (メデューサ) 、Instagramの過去投稿を全削除、新コンセプト/ライブパフォーマンスの『Meduza³』を発表！](https://iflyer.tv/article/2025/02/07/meduza-3/), 2025/01からのパフォーマンススタイルらしい.
 [^fn:2]: [Tiësto - Live at the Great Pyramids of Giza 2025 (Full Set) - YouTube](https://www.youtube.com/watch?v=r6fO-Ki9LzE)
