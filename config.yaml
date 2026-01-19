@@ -1,0 +1,44 @@
+baseURL: "https://username.github.io/everclassic/"
+title: EverClassic
+theme: paper
+
+languageCode: ja
+HasCJKLanguage: true
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  # Hugo Paper theme config
+  color: linen  # linen, wheat, gray, light
+
+  # Profile settings
+  # avatar: "https://gravatar.com/avatar/youremail"
+  # name: "Your Name"
+  # bio: "Your bio"
+
+  # Enable/disable features
+  # twitter: your_twitter_username
+  # github: your_github_username
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

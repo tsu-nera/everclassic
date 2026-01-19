@@ -1,0 +1,32 @@
+# Hugo default output directory
+/public/
+/resources/_gen/
+
+# Hugo cache
+/.hugo_build.lock
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database dumps
+*.sql
+
+# Backup files
+*.zip
+backwpup_*.zip
+
+# Original context backup
+context_original/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+tmp
