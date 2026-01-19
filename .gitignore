@@ -21,9 +21,6 @@ Thumbs.db
 *.zip
 backwpup_*.zip
 
-# Original context backup
-context_original/
-
 # Python
 __pycache__/
 *.py[cod]
