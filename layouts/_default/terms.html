@@ -1,0 +1,18 @@
+{{- define "main" -}}
+
+<h1 class="mb-14">{{- .Title -}}</h1>
+
+<div class="flex flex-wrap gap-3">
+  {{- range .Data.Terms.Alphabetical -}}
+  {{- $href := print $.Site.BaseURL .Page.RelPermalink -}}
+  <a
+    class="rounded-lg bg-black/[3%] px-5 py-2 no-underline hover:bg-black/[6%] dark:bg-white/[8%] dark:hover:bg-white/[12%]"
+    href="{{- $href -}}"
+  >
+    {{- .Page.Title -}}
+    <sup class="ml-1 opacity-60">{{- .Count -}}</sup>
+  </a>
+  {{- end -}}
+</div>
+
+{{- end -}}

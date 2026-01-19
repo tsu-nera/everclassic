@@ -5,6 +5,10 @@ theme: paper
 languageCode: ja
 HasCJKLanguage: true
 
+taxonomies:
+  category: categories
+  tag: tags
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -33,10 +37,18 @@ menu:
       name: Posts
       url: /posts/
       weight: 10
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
     - identifier: about
       name: About
       url: /about/
-      weight: 20
+      weight: 40
 
 markup:
   goldmark:
