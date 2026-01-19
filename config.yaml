@@ -5,6 +5,8 @@ theme: paper
 languageCode: ja
 HasCJKLanguage: true
 
+paginate: 1000
+
 taxonomies:
   category: categories
   tag: tags
