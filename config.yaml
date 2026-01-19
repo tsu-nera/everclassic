@@ -9,6 +9,9 @@ taxonomies:
   category: categories
   tag: tags
 
+permalinks:
+  posts: "/:filename"
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false

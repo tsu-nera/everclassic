@@ -18,9 +18,9 @@ One Day Moreは、レ・ミゼラブルの第一幕の幕切れに歌われる�
 互いの異なる感情を歌に表現して対立を作りつつ、物語を劇的に盛り上げる効果がある。
 
 （これで読んで知った気がする）
-[
-痛快!オペラ学 (痛快!シリーズ)
-永竹 由幸 ](http://www.amazon.co.jp/exec/obidos/ASIN/4797670428/sleephacker-22/ref=nosim)
+
+[痛快!オペラ学 (痛快!シリーズ) 永竹 由幸](http://www.amazon.co.jp/exec/obidos/ASIN/4797670428/sleephacker-22/ref=nosim)
+
 というわけで、今回は自分の好きなアンサンブル・フィナーレのまとめ。
 
 ### レ・ミゼラブル One Day More
