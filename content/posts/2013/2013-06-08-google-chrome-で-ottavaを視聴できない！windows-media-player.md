@@ -19,7 +19,7 @@ Windows での GoogleChromeで視聴しようとすると、Windows Media Player
 
 
 
-[](http://hmi-me.ciao.jp/everclassic/wp-content/uploads/skitch.png)
+![](/images/skitch.png)
 
 
 
@@ -27,7 +27,7 @@ Windows での GoogleChromeで視聴しようとすると、Windows Media Player
  [](http://www.interoperabilitybridges.com/wmp-extension-for-chrome) [Interoperability Bridges and Labs Center](http://www.interoperabilitybridges.com/wmp-extension-for-chrome)
 
 
-[](http://hmi-me.ciao.jp/everclassic/wp-content/uploads/skitch1.png)
+![](/images/skitch1.png)
 
 
 
@@ -35,7 +35,7 @@ Windows での GoogleChromeで視聴しようとすると、Windows Media Player
 
 
 これをそのまま実行しようとすると、「このウェブサイトから追加できません」というメッセージが現れます。
-   [](http://hmi-me.ciao.jp/everclassic/wp-content/uploads/skitch2.png)
+   ![](/images/skitch2.png)
 
 
 Chromeツールバーから ツール -> 拡張設定 を選択。
