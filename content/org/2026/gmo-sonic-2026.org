@@ -1,10 +1,11 @@
-#+HUGO_BASE_DIR: ../../../
+#+HUGO_BASE_DIR: ~/repo/everclassic
+#+HUGO_SECTION: posts/2026
 #+title:トランスの王の帰還！ティエストを拝みにGMO Sonic 2026にいってきた。
 #+HUGO_CATEGORIES: 電子音楽
 #+HUGO_TAGS: いってみた トランス ハウス フェス
 #+date: <2026-01-19 Mon>
 
-GMO Sonic 2026に初参加. 15時から参戦. 千葉県幕張メッセ、自宅からは2時間以上、けっこう遠かった. 
+GMO Sonic 2026に初参加. 15時から参戦. 千葉県幕張メッセ、自宅からは2時間以上、けっこう遠かった.
 
 [[/images/gmo-sonic-2026-01.webp]]
 
