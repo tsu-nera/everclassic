@@ -1,0 +1,51 @@
+#+HUGO_BASE_DIR: ~/repo/everclassic
+#+HUGO_SECTION: posts/2025
+#+HUGO_AUTO_SET_LASTMOD: t
+#+date: <2025-03-30>
+#+title:OutburstでTech tranceとHard technoの違いがわからなくなったのが課題
+#+HUGO_CATEGORIES: EDM
+#+HUGO_TAGS: Trance クラブ ZeroTyokyo
+
+病人のわたしはTrance is my only drugなので、新宿ZeroTokyoのトランスパーティーをきいてきた. 瞑想合宿のあとなので参加しようかどうか悩んでいたが、瞑想合宿で悟りを開くことができなかったため、トランスで逝っちゃうことにした. 
+
+* MarkSherry率いるOutburstのパーティ
+
+ZeroTokyoは先月に続いて二回目なので立ち回りは少しうまくなった. まず22時から突撃するようなことはせずに終電間際の電車で0時前に入った. そして、夕方くらいから3時間くらいお昼寝したので、睡眠時間の課題もクリア. 
+
+さらに成功体験はライブ用Loopをしたら耳鳴り問題がなかったのがよかった. しかし集中用Loopとそのネックレスを帰りにどこかでなくすという最悪の自体で、トランスの高揚感とLoopをなくした絶望感が混じって帰路についた. 6000円くらいの損失. もちろん再び再注文した. 
+
+ASOT Styleでずっときいてきたきで、David ForbesもMark shellyもその路線のトランスを流してくれて嬉しい. 記憶ではTranceききはじめたときにNifraさんのDJプレイ動画をよくきいていたので、Tech Tranceの音は好きだ. Mark shellyの時のVJも素晴らしい. なんだか理想的なTrance partyに参加したきがした. Tranceの世界観に触れた気がした. 
+
+* OutburstでTech tranceとHard technoの違いがわからなくなったのが課題
+
+ただ、Alex Di Stefanoさんになると、もうトランスを離れてこれはテクノでは？とおもうようなことも多くあった. 詳しそうな人のxポストでは、Techno-Tech Trance-Hardcore Techno-Hard technoというつなぎだったらしい. また別の人の投稿では、Tech TranceとTechnoの境界が最近は曖昧になりつつあるトレンドもあるらしい. このへんの綾をききわけられるようになりたい. 
+
+Tranceの音といっても、３つの主要な特徴的な音があるように思う. 
+
+- Tech Trance系: 固いキックやハイハット. 
+- Psy Trance系: TB-303
+- Uplifting Trance系: Supersaw
+
+ちょっと前だと、Supersawのバキバキの輝きの音がトランスっぽいなと思っていたが、もっとトランスの分野は広いように修正された. 1回のライブDJでも３つを混ぜてくる. 
+
+* 力が奪われて立てなくなる日常を越えるために祭りは重要
+
+力が奪われて立てなくなる日常を越えるために祭りは重要. トランスパーティーは人類の知恵. クラシック音楽のコンサートも同じ. 音楽や祝祭は力を与える. ふとんから立ち上がる力を与える. 
+
+#+begin_quote
+詳しく言うと、「言葉と法と損得」に縛られた定住生活は、それまでにない不自然なもので、続けていると力を失う。だから定住社会には必ず祭りがありました。祭りは「言外・法外・損得外」の時空で、そこで力を回復したんです。
+
+「言葉と法と損得」に縛られた定住を、拒絶して差別された非定住民が、祭りでは呼び戻されてメインプレイヤーになります。人々は、「言葉と法と損得」に縛られると力を失っちゃうことが、ちゃんとわかっていたんです。
+
+定住社会には、力が湧き出す時空＝聖と、その力を使う時空＝俗が、あります。聖なる時空が失われると、ひとには使える力がなくなります。これが「生きづらい」状態。90年代からの「登校拒否→不登校→ひきこもり」の流れです。
+
+聖の時空は、「言外・法外・損得外」の時空です。一つは、社会にとっての祭りですが、もう一つあって、個人にとっての性愛です。これらを失う流れを、日本の新住民化を含めて、一般に「法化する」「法化社会になる」と言います。
+#+end_quote
+
+[[https://shueisha.online/articles/-/42415?page=4][(4ページ目)「日本の劣化」を食い止めるカギは「森のようちえん」にある!?　 宮台真司×おおたとしまさ | 集英社オンライン | ニュースを本気で噛み砕け]]
+
+* Refs
+
+- [[https://www.youtube.com/watch?v=OR9Zn2sEkfY&t=2133s&ab_channel=DavidForbes][David Forbes - Outburst Tokyo - 29.03.25 - YouTube]]
+- [[https://www.youtube.com/watch?v=-aw4tsTzIrE&t=8s&ab_channel=MarkSherry][Mark Sherry - Outburst Tokyo - 29.03.25 - YouTube]]
+- https://zerotokyo.jp/event/outburst-tokyo0329/
