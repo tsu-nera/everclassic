@@ -1,9 +1,9 @@
 +++
 title = "トランスの王の帰還！ティエストを拝みにGMO Sonic 2026にいってきた。"
 date = 2026-01-19T00:00:00+09:00
-lastmod = 2026-01-25T13:16:09+09:00
-tags = ["いってみた", "トランス", "ハウス", "フェス"]
-categories = ["電子音楽"]
+lastmod = 2026-01-25T13:48:47+09:00
+tags = ["いってみた", "Trance", "House", "フェス"]
+categories = ["EDM"]
 draft = false
 +++
 

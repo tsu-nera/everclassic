@@ -1,8 +1,8 @@
 +++
 title = "Ferry CorstenをDJライブできいて脱魂法悦ザビエルトランスした"
 date = 2025-10-13T16:50:00+09:00
-lastmod = 2026-01-25T13:45:32+09:00
-tags = ["trance"]
+lastmod = 2026-01-25T13:46:50+09:00
+tags = ["Trance"]
 categories = ["EDM"]
 draft = false
 +++
