@@ -1,6 +1,7 @@
 baseURL: "https://tsu-nera.github.io/everclassic/"
 title: EverClassic
 theme: paper
+canonifyURLs: true
 
 languageCode: ja
 HasCJKLanguage: true
